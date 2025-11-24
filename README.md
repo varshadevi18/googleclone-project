@@ -27,13 +27,18 @@ and improving step by step</strong>.
 <hr>
 
 <h2>📸 Screenshots</h2>
-<img src="screenshots/home.png" width="600" alt="Google Clone Screenshot">
+<img src="screenshots/Screenshot 2025-11-24 172817.png" width="400" "height=400" alt="Google Clone Screenshot">
+<br>
+<img src="screenshots/Screenshot 2025-11-24 172831.png" width="400" "height=400">
 
 <hr>
 
 <h2>🎥 Screen Recording</h2>
-  <a href="recordings/demo.mp4">Click to watch demo</a>
-</p>
+  <ul>
+  <li><a href="recordings/Screen Recording 2025-11-24 135143.mp4">Live Coding-1</a></li>
+  <li><a href="recordings/Screen Recording 2025-11-24 135828.mp4">Live Coding-2 </a></li>
+  <li><a href="recordings/Screen Recording 2025-11-24 172800.mp4">Watch Full Demo </a></li>
+</ul>
 
 <hr>
 
@@ -65,5 +70,5 @@ I will continue improving this project as I learn more.
 <hr>
 
 <div align="center">
-  <p>Made this with 💙 for GOOGLE:) while learning Tailwind CSS</p>
+  <p>Made this with 💙 out of my passion for GOOGLE:) while learning Tailwind CSS</p>
 </div>
